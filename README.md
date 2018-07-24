@@ -9,7 +9,7 @@ Add the following lines to your `build.sbt`.
 
 ```scala
 // Add dependency of `akka-stream-zstd.git` on GitHub
-dependsOn(RootProject(uri("https://github.com/nwtgck/akka-stream-zstd.git#0e6eb379c82b914ace31f5f9f2399d58a99f324f")))
+dependsOn(RootProject(uri("https://github.com/nwtgck/akka-stream-zstd.git#v0.1.0")))
 ```
 
 
