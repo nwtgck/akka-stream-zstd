@@ -1,6 +1,6 @@
 name := "akka-stream-zstd"
 
-version := "0.1.2"
+version := "0.1.3"
 
 scalaVersion := "2.11.12"
 
