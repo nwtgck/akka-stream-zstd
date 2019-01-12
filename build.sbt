@@ -1,6 +1,6 @@
 name := "akka-stream-zstd"
 
-version := "0.1.5"
+version := "0.1.6-SNAPSHOT"
 
 val akkaVersion = "2.5.19"
 
